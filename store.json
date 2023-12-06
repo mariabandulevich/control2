@@ -1,0 +1,92 @@
+[
+    {
+      "id": "1",
+      "title": "Бежевый",
+      "vendor_code": "111",
+      "description": "Лак для ногтей",
+      "price": 150,
+      "img": "./img/nail1.jpg"
+    },
+    {
+      "id": "2",
+      "title": "Фуксия",
+      "vendor_code": "222",
+      "description": "Лак для ногтей",
+      "price": 150,
+      "img": "./img/nail2.jpg"
+    },
+    {
+      "id": "3",
+      "title": "Морская волна",
+      "vendor_code": "333",
+      "description": "Лак для ногтей",
+      "price": 150,
+      "img": "./img/nail11.jpg"
+    },
+    {
+      "id": "4",
+      "title": "Конфетти",
+      "vendor_code": "444e",
+      "description": "Лак для ногтей",
+      "price": 200,
+      "img": "./img/nail4.jpg"
+    }
+    ,
+    {
+      "id": "5",
+      "title": "Салатовый",
+      "vendor_code": "4445e",
+      "description": "Лак для ногтей",
+      "price": 150,
+      "img": "./img/nail5.jpg"
+    },
+    {
+      "id": "6",
+      "title": "Фиолетовый",
+      "vendor_code": "4446e",
+      "description": "Лак для ногтей",
+      "price": 150,
+      "img": "./img/nail6.jpg"
+    },
+    {
+      "id": "7",
+      "title": "Красный",
+      "vendor_code": "4447e",
+      "description": "Лак для ногтей",
+      "price": 150,
+      "img": "./img/nail7.jpg"
+    },
+    {
+      "id": "8",
+      "title": "Нюдовый",
+      "vendor_code": "4448e",
+      "description": "Лак для ногтей",
+      "price": 150,
+      "img": "./img/nail8.jpg"
+    },
+    {
+      "id": "9",
+      "title": "Розовый",
+      "vendor_code": "444e",
+      "description": "Лак для ногтей",
+      "price": 150,
+      "img": "./img/nail9.jpg"
+    }
+    ,
+    {
+      "id": "10",
+      "title": "Мерцание",
+      "vendor_code": "44410e",
+      "description": "Лак для ногтей",
+      "price": 150,
+      "img": "./img/nail10.jpg"
+    },
+    {
+      "id": "11",
+      "title": "Товар 11",
+      "vendor_code": "44411e",
+      "description": "Лак для ногтей",
+      "price": 150,
+      "img": "./img/nail3.jpg"
+    }
+  ]
